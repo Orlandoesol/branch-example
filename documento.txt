@@ -2,7 +2,3 @@ Hola Grupo G10 de la noche del Politecnico Internacional de Occidente.
 Este es un ejercicio de ramas con git y Git y GitHub.
 
 *Recuerden la asistencia la cierre de la Hackaton!!*
-
-**Nuevo Cambio**
-
-***Cambio para tercer rama***
